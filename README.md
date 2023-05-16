@@ -1,6 +1,6 @@
 # Tutorials
 
-This is a Python Tutorial repository for personal use.
+This is a Tutorial repository for personal use.
 
 # List of references:
 
